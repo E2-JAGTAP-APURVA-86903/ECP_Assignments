@@ -1,4 +1,4 @@
-TARGET=assign1-12
+TARGET=pro4
 
 CC=gcc
 
