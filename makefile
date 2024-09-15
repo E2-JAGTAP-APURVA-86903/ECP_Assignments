@@ -1,4 +1,4 @@
-TARGET=pro4
+TARGET=8-6
 
 CC=gcc
 
